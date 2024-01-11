@@ -1,0 +1,9 @@
+{
+	"defName":"HodlBotVote",
+	"abbreviation":"hodlbotvote",
+	"cost":"600",
+	"eventCap":"1",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}
