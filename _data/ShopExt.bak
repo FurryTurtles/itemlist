@@ -9,11 +9,11 @@
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -33,13 +33,13 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -62,7 +62,7 @@
         "abrasive",
         "psychopath"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -71,7 +71,7 @@
         "stats": [
           "x200% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -92,14 +92,14 @@
         "x50% global certainty loss factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed.",
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -119,13 +119,13 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -153,7 +153,7 @@
         "haggler",
         "mastertrader"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "kind",
@@ -167,7 +167,7 @@
         "stats": [
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -195,7 +195,7 @@
         "volatile",
         "slowlearner"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "iron-willed",
@@ -209,7 +209,7 @@
           "+12% mental break threshold",
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -236,7 +236,7 @@
         "trigger-happy",
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "carefulshooter",
@@ -249,7 +249,7 @@
           "-4 shooting",
           "+4.0 melee hit chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -271,7 +271,7 @@
       "conflicts": [
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp"
@@ -279,7 +279,7 @@
         "stats": [
           "Morbid meditation focus type allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -297,11 +297,11 @@
       "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -322,14 +322,14 @@
         "ascetic",
         "jealous"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ascetic",
           "jealous"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -352,7 +352,7 @@
         "ascetic",
         "greedy"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ascetic",
@@ -361,7 +361,7 @@
         "stats": [
           "Morbid meditation focus type allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -387,7 +387,7 @@
         "jealous",
         "gourmand"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "greedy",
@@ -399,7 +399,7 @@
           "Minimal meditation focus type allowed.",
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -417,11 +417,11 @@
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -439,11 +439,11 @@
       "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -461,11 +461,11 @@
       "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -483,11 +483,11 @@
       "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -505,11 +505,11 @@
       "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -530,14 +530,14 @@
         "Only mental break \"FireStartingSpree\" allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Flame meditation focus type allowed.",
           "Only mental break \"FireStartingSpree\" allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -561,7 +561,7 @@
         "brawler",
         "masochist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler",
@@ -571,7 +571,7 @@
           "-50% pain shock threshold",
           "x200% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -592,14 +592,14 @@
         "x10% trap spring chance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+15.0 melee dodge chance",
           "x10% trap spring chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -622,7 +622,7 @@
         "dunce",
         "savant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "dunce",
@@ -631,7 +631,7 @@
         "stats": [
           "+75% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -654,7 +654,7 @@
       "conflicts": [
         "toosmart"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "toosmart"
@@ -663,7 +663,7 @@
           "-75% global learning factor",
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -683,13 +683,13 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -709,13 +709,13 @@
       "conflicts": [
         "bodypurist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bodypurist"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -735,13 +735,13 @@
       "conflicts": [
         "bodymodder"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bodymodder"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -759,11 +759,11 @@
       "description": "Timmy really dislikes and distrusts men.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -781,11 +781,11 @@
       "description": "Timmy really dislikes and distrusts women.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -803,11 +803,11 @@
       "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -832,7 +832,7 @@
         "ironman",
         "lowpaintolerance"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -843,7 +843,7 @@
         "stats": [
           "x50% incoming damage multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -863,13 +863,13 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -892,7 +892,7 @@
       "conflicts": [
         "ascetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ascetic"
@@ -901,7 +901,7 @@
           "Only mental break \"Binging_Food\" allowed.",
           "+4 cooking"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -921,13 +921,13 @@
         "+50% rest rate multiplier"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+50% rest rate multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -948,14 +948,14 @@
         "-0.20 move speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Go frenzy inspiration disabled.",
           "-0.20 move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -975,13 +975,13 @@
         "+0.20 move speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+0.20 move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1001,13 +1001,13 @@
         "+0.40 move speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+0.40 move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1025,11 +1025,11 @@
       "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1047,11 +1047,11 @@
       "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1072,14 +1072,14 @@
         "Binging on drug mental state disabled."
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Binging on drug mental state disabled.",
           "Binging on drug mental state disabled."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1097,11 +1097,11 @@
       "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1119,11 +1119,11 @@
       "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1141,11 +1141,11 @@
       "description": "Timmy tends to look on the bad side of life.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1163,11 +1163,11 @@
       "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1188,14 +1188,14 @@
         "x25% global certainty loss factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-18% mental break threshold",
           "x25% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1216,14 +1216,14 @@
         "x50% global certainty loss factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-9% mental break threshold",
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1244,14 +1244,14 @@
         "x200% global certainty loss factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+8% mental break threshold",
           "x200% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1272,14 +1272,14 @@
         "x300% global certainty loss factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+15% mental break threshold",
           "x300% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1300,14 +1300,14 @@
         "+8% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+20% global work speed",
           "+8% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1328,14 +1328,14 @@
         "+14% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+40% global work speed",
           "+14% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1359,7 +1359,7 @@
         "coordinated",
         "perfectionist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inept",
@@ -1369,7 +1369,7 @@
         "stats": [
           "+35% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1393,7 +1393,7 @@
         "coordinated",
         "perfectionist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inept",
@@ -1403,7 +1403,7 @@
         "stats": [
           "+20% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1427,7 +1427,7 @@
         "coordinated",
         "perfectionist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inept",
@@ -1437,7 +1437,7 @@
         "stats": [
           "-20% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1461,7 +1461,7 @@
         "coordinated",
         "perfectionist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inept",
@@ -1471,7 +1471,7 @@
         "stats": [
           "-35% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1491,13 +1491,13 @@
         "+80% psychic sensitivity"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+80% psychic sensitivity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1517,13 +1517,13 @@
         "+40% psychic sensitivity"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+40% psychic sensitivity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1543,13 +1543,13 @@
         "-50% psychic sensitivity"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-50% psychic sensitivity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1569,13 +1569,13 @@
         "-100% psychic sensitivity"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-100% psychic sensitivity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1598,7 +1598,7 @@
       "conflicts": [
         "brawler"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler"
@@ -1607,7 +1607,7 @@
           "+25% aiming time",
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -1630,7 +1630,7 @@
       "conflicts": [
         "brawler"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler"
@@ -1639,7 +1639,7 @@
           "-50% aiming time",
           "-5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -1659,13 +1659,13 @@
         "+2.0 beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+2.0 beauty"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1685,13 +1685,13 @@
         "+1.0 beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+1.0 beauty"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1711,13 +1711,13 @@
         "-1.0 beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-1.0 beauty"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1737,13 +1737,13 @@
         "-2.0 beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-2.0 beauty"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1763,13 +1763,13 @@
         "+30% immunity gain speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+30% immunity gain speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1789,13 +1789,13 @@
         "+4 medical"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+4 medical"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1813,11 +1813,11 @@
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Humanoid Alien Races",
@@ -1835,11 +1835,11 @@
       "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Humanoid Alien Races",
@@ -1860,14 +1860,14 @@
         "boundless",
         "manawell"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "boundless",
           "manawell"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -1888,14 +1888,14 @@
         "boundless",
         "arcaneconduit"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "boundless",
           "arcaneconduit"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -1916,14 +1916,14 @@
         "arcaneconduit",
         "manawell"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "arcaneconduit",
           "manawell"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -1943,13 +1943,13 @@
       "conflicts": [
         "giantsblood"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "giantsblood"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -1969,13 +1969,13 @@
       "conflicts": [
         "faeblood"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "faeblood"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -1997,7 +1997,7 @@
       "conflicts": [
         "cursed"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "cursed"
@@ -2005,7 +2005,7 @@
         "stats": [
           "+50% psychic sensitivity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2025,13 +2025,13 @@
       "conflicts": [
         "enlightened"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "enlightened"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2049,11 +2049,11 @@
       "description": "Timmy has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2129,7 +2129,7 @@
         "shaman",
         "golemancer"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "empath",
@@ -2191,7 +2191,7 @@
           "-50% global work speed",
           "x0% foraged food amount"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2266,7 +2266,7 @@
         "shaman",
         "golemancer"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "empath",
@@ -2327,7 +2327,7 @@
           "+20% psychic sensitivity",
           "+10% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2760,7 +2760,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "magicallygifted",
@@ -3179,7 +3179,7 @@
           "+40% global certainty loss factor",
           "+50.00% conversion power"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3350,7 +3350,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "icemage",
@@ -3507,7 +3507,7 @@
           "+5.4F Maximum comfortable temperature",
           "-5.4F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3679,7 +3679,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "icemage",
@@ -3837,7 +3837,7 @@
           "+27.0F Maximum comfortable temperature",
           "+12.6F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4008,7 +4008,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -4165,7 +4165,7 @@
           "-12.6F Maximum comfortable temperature",
           "-27.0F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4334,7 +4334,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -4489,7 +4489,7 @@
           "-40% mining speed",
           "-20% mining yield"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4662,7 +4662,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -4821,7 +4821,7 @@
           "-20.00% tame animal chance",
           "-20.00% train animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4993,7 +4993,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -5151,7 +5151,7 @@
           "-10.00% trade price improvement",
           "+20% animal gather yield"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5321,7 +5321,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -5477,7 +5477,7 @@
           "-20% psychic sensitivity",
           "-15% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5646,7 +5646,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -5801,7 +5801,7 @@
           "+14.4F Maximum comfortable temperature",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5973,7 +5973,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -6131,7 +6131,7 @@
           "-50.00% trade price improvement",
           "-25.00% negotiation ability"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6305,7 +6305,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -6465,7 +6465,7 @@
           "+25% medical tend speed",
           "-10% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6632,7 +6632,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -6785,7 +6785,7 @@
           "-10 carrying capacity",
           "-10% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6952,7 +6952,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -7105,7 +7105,7 @@
           "-15 carrying capacity",
           "-12% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7272,7 +7272,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -7425,7 +7425,7 @@
           "-18 carrying capacity",
           "-14% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7592,7 +7592,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -7745,7 +7745,7 @@
           "-20 carrying capacity",
           "-15% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7922,7 +7922,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -8085,7 +8085,7 @@
           "+45.0F Maximum comfortable temperature",
           "+9.0F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8262,7 +8262,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -8425,7 +8425,7 @@
           "+18.0F Maximum comfortable temperature",
           "-18.0F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8600,7 +8600,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -8761,7 +8761,7 @@
           "-15% mental break threshold",
           "-20% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8938,7 +8938,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -9101,7 +9101,7 @@
           "+20% psychic sensitivity",
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9273,7 +9273,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -9431,7 +9431,7 @@
           "-30% research speed",
           "+10% immunity gain speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9604,7 +9604,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -9763,7 +9763,7 @@
           "-3% immunity gain speed",
           "-10% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9932,7 +9932,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -10087,7 +10087,7 @@
           "-10% pain shock threshold",
           "+10% psychic sensitivity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -10256,7 +10256,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -10411,7 +10411,7 @@
           "+50% psychic sensitivity",
           "-5% immunity gain speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -10847,7 +10847,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -11269,7 +11269,7 @@
           "-20.00% social impact",
           "-10.00% negotiation ability"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -11704,7 +11704,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -12125,7 +12125,7 @@
           "-30 carrying capacity",
           "-20% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -12559,7 +12559,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -12979,7 +12979,7 @@
           "-25% smelting speed",
           "-25% construction speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13411,7 +13411,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -13829,7 +13829,7 @@
           "+20% smelting speed",
           "+20% construction speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14204,7 +14204,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "spirit",
@@ -14565,7 +14565,7 @@
           "god"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14990,7 +14990,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -15401,7 +15401,7 @@
           "god"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15476,7 +15476,7 @@
         "empath",
         "apothecary"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "gladiator",
@@ -15537,7 +15537,7 @@
           "-20% psychic sensitivity",
           "-20% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15708,7 +15708,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "icemage",
@@ -15865,7 +15865,7 @@
           "+5.4F Maximum comfortable temperature",
           "-5.4F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16301,7 +16301,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "magicallygifted",
@@ -16723,7 +16723,7 @@
           "-20% smoothing speed",
           "-10% construction speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16900,7 +16900,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -17063,7 +17063,7 @@
           "-25% research speed",
           "+20% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17236,7 +17236,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -17395,7 +17395,7 @@
           "+10.00% train animal chance",
           "+2.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17568,7 +17568,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -17727,7 +17727,7 @@
           "+12.00% train animal chance",
           "+3.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17900,7 +17900,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -18059,7 +18059,7 @@
           "+14.00% train animal chance",
           "+4.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -18232,7 +18232,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -18391,7 +18391,7 @@
           "+15.00% train animal chance",
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -18559,7 +18559,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -18713,7 +18713,7 @@
           "-10.00% tame animal chance",
           "-10.00% train animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -18881,7 +18881,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -19035,7 +19035,7 @@
           "-13.00% tame animal chance",
           "-13.00% train animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -19203,7 +19203,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -19357,7 +19357,7 @@
           "-15.00% tame animal chance",
           "-15.00% train animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -19525,7 +19525,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -19679,7 +19679,7 @@
           "-16.00% tame animal chance",
           "-16.00% train animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -19846,7 +19846,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -19999,7 +19999,7 @@
           "-20.0 shooting accuracy",
           "-10% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -20166,7 +20166,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -20319,7 +20319,7 @@
           "-25.0 shooting accuracy",
           "-8% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -20487,7 +20487,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -20641,7 +20641,7 @@
           "-28.0 shooting accuracy",
           "-6% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -20809,7 +20809,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -20963,7 +20963,7 @@
           "-30.0 shooting accuracy",
           "-5% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -21137,7 +21137,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -21297,7 +21297,7 @@
           "-10% plant work speed",
           "-40% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -21469,7 +21469,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -21627,7 +21627,7 @@
           "+20% pain shock threshold",
           "+20% psychic sensitivity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -21796,7 +21796,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -21951,7 +21951,7 @@
           "+30% pain shock threshold",
           "-25% psychic sensitivity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -22123,7 +22123,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -22281,7 +22281,7 @@
           "-80% psychic sensitivity",
           "-20.00% trade price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -22450,7 +22450,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -22605,7 +22605,7 @@
           "-30% global work speed",
           "-40% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -22778,7 +22778,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "physicallyadept",
@@ -22937,7 +22937,7 @@
           "-10% global work speed",
           "-20% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -23321,7 +23321,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -23691,7 +23691,7 @@
           "-20% global work speed",
           "+10% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -24071,7 +24071,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -24437,7 +24437,7 @@
           "+10.0 melee dodge chance",
           "+10% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -24814,7 +24814,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -25177,7 +25177,7 @@
           "-30% aiming time",
           "-15% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -25553,7 +25553,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -25915,7 +25915,7 @@
         "stats": [
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -26295,7 +26295,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -26661,7 +26661,7 @@
           "-12% mental break threshold",
           "x75% incoming damage multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -27042,7 +27042,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -27409,7 +27409,7 @@
           "+15.0 melee hit chance",
           "+0.20 move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -27791,7 +27791,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -28159,7 +28159,7 @@
           "-25% global work speed",
           "+8% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -28540,7 +28540,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -28907,7 +28907,7 @@
           "-15% pain shock threshold",
           "-20 carrying capacity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -29291,7 +29291,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -29661,7 +29661,7 @@
           "+100% medical tend speed",
           "+100% medical operation speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -30039,7 +30039,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -30403,7 +30403,7 @@
           "+20% research speed",
           "+15% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -30783,7 +30783,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -31149,7 +31149,7 @@
           "-25.00% social impact",
           "+20% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -31529,7 +31529,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -31895,7 +31895,7 @@
           "+20% pain shock threshold",
           "-25% aiming time"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -32283,7 +32283,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -32657,7 +32657,7 @@
           "-25% global work speed",
           "+100% immunity gain speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -33037,7 +33037,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -33403,7 +33403,7 @@
           "-25.0 shooting accuracy",
           "+50% psychic sensitivity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -33782,7 +33782,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -34147,7 +34147,7 @@
           "+500% medical tend speed",
           "+500% medical operation speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -34525,7 +34525,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -34889,7 +34889,7 @@
           "-30% aiming time",
           "+3.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -35269,7 +35269,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -35635,7 +35635,7 @@
           "-20% animal gather yield",
           "-20.00% tame animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -36013,7 +36013,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -36377,7 +36377,7 @@
           "-12% mental break threshold",
           "+15% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -36757,7 +36757,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -37123,7 +37123,7 @@
           "+10.0 melee hit chance",
           "-200% trap spring chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -37503,7 +37503,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -37869,7 +37869,7 @@
           "+25.00% social impact",
           "-200% trap spring chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -38251,7 +38251,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -38619,7 +38619,7 @@
           "+20 carrying capacity",
           "-8% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -39002,7 +39002,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -39371,7 +39371,7 @@
           "+30.00% train animal chance",
           "-25% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -39762,7 +39762,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -40139,7 +40139,7 @@
           "+35% research speed",
           "x200% eating speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -40530,7 +40530,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -40907,7 +40907,7 @@
           "+25% global work speed",
           "x200% eating speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -41284,7 +41284,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -41647,7 +41647,7 @@
           "-25% aiming time",
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -42026,7 +42026,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "manawell",
@@ -42391,7 +42391,7 @@
           "-100% psychic sensitivity",
           "-18% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -42774,7 +42774,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -43143,7 +43143,7 @@
           "+120 carrying capacity",
           "+35% construction speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -43526,7 +43526,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -43895,7 +43895,7 @@
           "+100% pain shock threshold",
           "x50% incoming damage multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -44276,7 +44276,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -44643,7 +44643,7 @@
           "-15% global work speed",
           "-15% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -45024,7 +45024,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -45391,7 +45391,7 @@
           "+10% pain shock threshold",
           "-8% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -45771,7 +45771,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -46137,7 +46137,7 @@
           "+20% pain shock threshold",
           "-8% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -46515,7 +46515,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -46879,7 +46879,7 @@
           "+5.0 melee hit chance",
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -47260,7 +47260,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -47627,7 +47627,7 @@
           "-15.0 shooting accuracy",
           "x133% incoming damage multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -48007,7 +48007,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "manawell",
@@ -48373,7 +48373,7 @@
           "+10.0 shooting accuracy",
           "-25% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -48753,7 +48753,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -49119,7 +49119,7 @@
           "+10.0 melee hit chance",
           "+10.0 melee dodge chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -49499,7 +49499,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -49865,7 +49865,7 @@
           "-100% flammability",
           "+20% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -50250,7 +50250,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "manawell",
@@ -50621,7 +50621,7 @@
           "+20% aiming time",
           "-40.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -51003,7 +51003,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -51371,7 +51371,7 @@
           "-30.0 shooting accuracy",
           "+30% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -51750,7 +51750,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -52115,7 +52115,7 @@
           "+5.0 shooting accuracy",
           "+50% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -52492,7 +52492,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -52855,7 +52855,7 @@
           "-25% aiming time",
           "+10.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -53240,7 +53240,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -53611,7 +53611,7 @@
           "-15% global work speed",
           "+40% immunity gain speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -53991,7 +53991,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -54357,7 +54357,7 @@
           "+20% pain shock threshold",
           "-10% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -54736,7 +54736,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -55101,7 +55101,7 @@
           "-15.0 shooting accuracy",
           "+20% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -55479,7 +55479,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -55843,7 +55843,7 @@
           "+5.0 melee dodge chance",
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -56224,7 +56224,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -56591,7 +56591,7 @@
           "+40.00% negotiation ability",
           "+40.00% trade price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -56971,7 +56971,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "manawell",
@@ -57337,7 +57337,7 @@
           "+25.00% negotiation ability",
           "+25.00% trade price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -57716,7 +57716,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -58081,7 +58081,7 @@
           "+0.4 cooking speed",
           "-100.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -58462,7 +58462,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -58829,7 +58829,7 @@
           "+25% construction speed",
           "-200% trap spring chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -59209,7 +59209,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -59575,7 +59575,7 @@
           "-15.0 shooting accuracy",
           "+20% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -59953,7 +59953,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -60317,7 +60317,7 @@
           "+5.0 melee dodge chance",
           "+20% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -60699,7 +60699,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -61067,7 +61067,7 @@
           "+30% plant work speed",
           "+30% plant harvest yield"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -61443,7 +61443,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -61805,7 +61805,7 @@
         "stats": [
           "x20 eating speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -62182,7 +62182,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -62545,7 +62545,7 @@
           "-25% aiming time",
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -62923,7 +62923,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -63287,7 +63287,7 @@
           "+0.25 move speed",
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -63667,7 +63667,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -64033,7 +64033,7 @@
           "-25% global work speed",
           "-15% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -64412,7 +64412,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -64777,7 +64777,7 @@
           "+50% pain shock threshold",
           "+40 carrying capacity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -65157,7 +65157,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -65523,7 +65523,7 @@
           "+125% drug cooking speed",
           "+125% drug synthesis speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -65902,7 +65902,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -66267,7 +66267,7 @@
           "+25.00% trade price improvement",
           "+25% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -66645,7 +66645,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bladesman",
@@ -67009,7 +67009,7 @@
           "+35% construction speed",
           "+35% construct success chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -67027,11 +67027,11 @@
       "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Ideology Expanded - Memes and Structures",
@@ -67049,11 +67049,11 @@
       "description": "A strict principle of nonviolence which applies to all living things.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Alpha Memes",
@@ -67071,11 +67071,11 @@
       "description": "Timmy is not affected by the effects of aging.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "EvolvedOrgansRedux",
@@ -67096,14 +67096,14 @@
         "+20 melee"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+20 shooting",
           "+20 melee"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "EvolvedOrgansRedux",
@@ -67127,7 +67127,7 @@
         "-90% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -67137,7 +67137,7 @@
           "+95% toxic resistance",
           "-90% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Misc. Robots",
@@ -67155,11 +67155,11 @@
       "description": "Timmy could be a shapeshifter that blends forms between man and wolf. When a special moon rises, he may have his first horrific transformation, or something else may happen...",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rim of Madness - Werewolves",
@@ -67177,11 +67177,11 @@
       "description": "Timmy is unknowingly a shapeshifter that blends forms between man and wolf. When a special moon rises, he will have his first horrific transformation.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rim of Madness - Werewolves",
@@ -67199,11 +67199,11 @@
       "description": "Timmy is a shapeshifter that blends its form with that of a wolf.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rim of Madness - Werewolves",
@@ -67221,11 +67221,11 @@
       "description": "Having sworn a blood oath to their clan in good faith, Timmy is a shapeshifter that blends his form with that of a wolf, and cannot be recruited.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rim of Madness - Werewolves",
@@ -67243,11 +67243,11 @@
       "description": "Timmy is a genetic abberation known as the Metis. Somewhere in his genetic line, a werewolf mated with a werewolf and forever corrupted their werewolf line. This Werewolf can only transform into the Metis form.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rim of Madness - Werewolves",
@@ -67268,14 +67268,14 @@
         "x50 biotic energy recovery rate"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "x50 biotic energy limit",
           "x50 biotic energy recovery rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rim-Effect: Core",
@@ -67295,13 +67295,13 @@
         "-0.8 biotic energy recovery rate"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-0.8 biotic energy recovery rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rim-Effect: Core",
@@ -67321,13 +67321,13 @@
         "-0.5 biotic energy recovery rate"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-0.5 biotic energy recovery rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rim-Effect: Core",
@@ -67347,13 +67347,13 @@
         "+0.5 biotic energy recovery rate"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+0.5 biotic energy recovery rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rim-Effect: Core",
@@ -67373,13 +67373,13 @@
         "+2 biotic energy recovery rate"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+2 biotic energy recovery rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rim-Effect: Core",
@@ -67406,7 +67406,7 @@
       "conflicts": [
         "zir'scorruption"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "zir'scorruption"
@@ -67419,7 +67419,7 @@
           "x125% construction speed",
           "x200% mechanoid shredding speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimForge",
@@ -67444,7 +67444,7 @@
       "conflicts": [
         "blessingofzir"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "blessingofzir"
@@ -67455,7 +67455,7 @@
           "x400% mental break threshold",
           "x150% melee hit chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimForge",
@@ -67482,7 +67482,7 @@
       "conflicts": [
         "farsighted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "farsighted"
@@ -67495,7 +67495,7 @@
           "+2.0 melee hit chance",
           "+2.0 melee dodge chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67522,7 +67522,7 @@
       "conflicts": [
         "nearsighted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "nearsighted"
@@ -67535,7 +67535,7 @@
           "-2.0 melee hit chance",
           "-2.0 melee dodge chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67558,7 +67558,7 @@
       "conflicts": [
         "stiff"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "stiff"
@@ -67567,7 +67567,7 @@
           "+2.0 melee dodge chance",
           "+0.10 move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67590,7 +67590,7 @@
       "conflicts": [
         "athletic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "athletic"
@@ -67599,7 +67599,7 @@
           "-2.0 melee dodge chance",
           "-0.10 move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67621,7 +67621,7 @@
       "conflicts": [
         "poorhygiene"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "poorhygiene"
@@ -67629,7 +67629,7 @@
         "stats": [
           "-10.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67651,7 +67651,7 @@
       "conflicts": [
         "goodhygiene"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "goodhygiene"
@@ -67659,7 +67659,7 @@
         "stats": [
           "+10.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67682,7 +67682,7 @@
       "conflicts": [
         "unconvincing"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "unconvincing"
@@ -67691,7 +67691,7 @@
           "+25.00% negotiation ability",
           "+25.00% Arrest success chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67714,7 +67714,7 @@
       "conflicts": [
         "persuasive"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "persuasive"
@@ -67723,7 +67723,7 @@
           "-25.00% negotiation ability",
           "-25.00% Arrest success chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67747,7 +67747,7 @@
         "fragile",
         "feeble"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "fragile",
@@ -67757,7 +67757,7 @@
           "-10% incoming damage multiplier",
           "+5% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67782,7 +67782,7 @@
         "hardy",
         "tough"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "resilient",
@@ -67793,7 +67793,7 @@
           "+10% incoming damage multiplier",
           "-5% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67816,7 +67816,7 @@
       "conflicts": [
         "sluggish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sluggish"
@@ -67825,7 +67825,7 @@
           "+20% global work speed",
           "+0.15 move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67848,7 +67848,7 @@
       "conflicts": [
         "energetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "energetic"
@@ -67857,7 +67857,7 @@
           "-20% global work speed",
           "-0.15 move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67879,7 +67879,7 @@
       "conflicts": [
         "restless"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "restless"
@@ -67887,7 +67887,7 @@
         "stats": [
           "+25% rest rate multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67909,7 +67909,7 @@
       "conflicts": [
         "restful"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "restful"
@@ -67917,7 +67917,7 @@
         "stats": [
           "-25% rest rate multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67940,7 +67940,7 @@
       "conflicts": [
         "inefficient"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inefficient"
@@ -67949,7 +67949,7 @@
           "+20% global work speed",
           "+20% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -67972,7 +67972,7 @@
       "conflicts": [
         "efficient"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "efficient"
@@ -67981,7 +67981,7 @@
           "-20% global work speed",
           "-20% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68004,7 +68004,7 @@
       "conflicts": [
         "craven"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "craven"
@@ -68013,7 +68013,7 @@
           "-5% mental break threshold",
           "+5% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68036,7 +68036,7 @@
       "conflicts": [
         "valiant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "valiant"
@@ -68045,7 +68045,7 @@
           "+5% mental break threshold",
           "-5% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68067,7 +68067,7 @@
       "conflicts": [
         "composed"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "composed"
@@ -68075,7 +68075,7 @@
         "stats": [
           "+5% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68097,7 +68097,7 @@
       "conflicts": [
         "rowdy"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "rowdy"
@@ -68105,7 +68105,7 @@
         "stats": [
           "-5% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68127,7 +68127,7 @@
       "conflicts": [
         "heatintolerant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "heatintolerant"
@@ -68135,7 +68135,7 @@
         "stats": [
           "+5.4F Maximum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68157,7 +68157,7 @@
       "conflicts": [
         "heattolerant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "heattolerant"
@@ -68165,7 +68165,7 @@
         "stats": [
           "-5.4F Maximum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68187,7 +68187,7 @@
       "conflicts": [
         "coldintolerant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "coldintolerant"
@@ -68195,7 +68195,7 @@
         "stats": [
           "-5.4F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68217,7 +68217,7 @@
       "conflicts": [
         "coldtolerant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "coldtolerant"
@@ -68225,7 +68225,7 @@
         "stats": [
           "+5.4F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68248,7 +68248,7 @@
       "conflicts": [
         "frail"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "frail"
@@ -68257,7 +68257,7 @@
           "+5 carrying capacity",
           "+1.0 beauty"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68280,7 +68280,7 @@
       "conflicts": [
         "muscular"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "muscular"
@@ -68289,7 +68289,7 @@
           "-5 carrying capacity",
           "-1.0 beauty"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68309,13 +68309,13 @@
       "conflicts": [
         "ravenous"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ravenous"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68335,13 +68335,13 @@
       "conflicts": [
         "abstinent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abstinent"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68374,7 +68374,7 @@
       "conflicts": [
         "incompetent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "incompetent"
@@ -68393,7 +68393,7 @@
           "+4 social",
           "+4 intellectual"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68426,7 +68426,7 @@
       "conflicts": [
         "gifted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "gifted"
@@ -68445,7 +68445,7 @@
           "-4 social",
           "-4 intellectual"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68468,7 +68468,7 @@
       "conflicts": [
         "impatientcook"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "impatientcook"
@@ -68477,7 +68477,7 @@
           "-0.8 cooking speed",
           "-10.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68500,7 +68500,7 @@
       "conflicts": [
         "patientcook"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "patientcook"
@@ -68509,7 +68509,7 @@
           "+0.8 cooking speed",
           "+10.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68536,7 +68536,7 @@
       "conflicts": [
         "chronicallyill"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "chronicallyill"
@@ -68549,7 +68549,7 @@
           "+1.8F Maximum comfortable temperature",
           "-1.8F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68576,7 +68576,7 @@
       "conflicts": [
         "healthy"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "healthy"
@@ -68589,7 +68589,7 @@
           "-1.8F Maximum comfortable temperature",
           "+1.8F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68612,7 +68612,7 @@
       "conflicts": [
         "temperatureintolerant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "temperatureintolerant"
@@ -68621,7 +68621,7 @@
           "+5.4F Maximum comfortable temperature",
           "-5.4F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68644,7 +68644,7 @@
       "conflicts": [
         "temperaturetolerant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "temperaturetolerant"
@@ -68653,7 +68653,7 @@
           "-5.4F Maximum comfortable temperature",
           "+5.4F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68677,7 +68677,7 @@
       "conflicts": [
         "clumsy"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "clumsy"
@@ -68687,7 +68687,7 @@
           "+2.0 melee hit chance",
           "+2.0 melee dodge chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68711,7 +68711,7 @@
       "conflicts": [
         "coordinated"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "coordinated"
@@ -68721,7 +68721,7 @@
           "-2.0 melee hit chance",
           "-2.0 melee dodge chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68749,7 +68749,7 @@
         "fragile",
         "feeble"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "fragile",
@@ -68763,7 +68763,7 @@
           "+1.8F Maximum comfortable temperature",
           "-1.8F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68792,7 +68792,7 @@
         "hardy",
         "tough"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "resilient",
@@ -68807,7 +68807,7 @@
           "-1.8F Maximum comfortable temperature",
           "+1.8F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68829,7 +68829,7 @@
       "conflicts": [
         "constantlybemused"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "constantlybemused"
@@ -68837,7 +68837,7 @@
         "stats": [
           "+3 artistic"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68859,7 +68859,7 @@
       "conflicts": [
         "easilyamused"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "easilyamused"
@@ -68867,7 +68867,7 @@
         "stats": [
           "-3 artistic"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68890,7 +68890,7 @@
       "conflicts": [
         "ignorant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ignorant"
@@ -68899,7 +68899,7 @@
           "+4 intellectual",
           "-5% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68922,7 +68922,7 @@
       "conflicts": [
         "inquisitive"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inquisitive"
@@ -68931,7 +68931,7 @@
           "-4 intellectual",
           "+5% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68955,7 +68955,7 @@
       "conflicts": [
         "messy"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "messy"
@@ -68965,7 +68965,7 @@
           "+5% global work speed",
           "+15% cleaning speed multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -68989,7 +68989,7 @@
       "conflicts": [
         "tidy"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "tidy"
@@ -68999,7 +68999,7 @@
           "-5% global work speed",
           "-15% cleaning speed multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
@@ -69020,14 +69020,14 @@
         "+0.05 neural heat recovery rate"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+30% psychic sensitivity",
           "+0.05 neural heat recovery rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Obsidia Expansion",
@@ -69048,14 +69048,14 @@
         "+15% global learning factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+15% global work speed",
           "+15% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Obsidia Expansion",
@@ -69076,14 +69076,14 @@
         "+8.0 shooting accuracy"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+8.0 melee dodge chance",
           "+8.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Obsidia Expansion",
@@ -69103,13 +69103,13 @@
         "+70% rest rate multiplier"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+70% rest rate multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Obsidia Expansion",
@@ -69133,7 +69133,7 @@
         "x25% global certainty loss factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -69143,7 +69143,7 @@
           "-10% global learning factor",
           "x25% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Obsidia Expansion",
@@ -69164,14 +69164,14 @@
         "x25% global certainty loss factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+5.0 beauty",
           "x25% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Obsidia Expansion",
@@ -69594,7 +69594,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -70003,7 +70003,7 @@
           "+100% psychic sensitivity",
           "+50% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RWoM Custom Class - Blue Mage",
@@ -70030,7 +70030,7 @@
         "x120% research speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -70043,7 +70043,7 @@
           "+100.0 Max KI energy",
           "x120% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "The Saiyans",
@@ -70071,7 +70071,7 @@
         "x80% research speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -70085,7 +70085,7 @@
           "+100.0 Max KI energy",
           "x80% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "The Saiyans",
@@ -70112,7 +70112,7 @@
         "x90% research speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -70125,7 +70125,7 @@
           "+100.0 Max KI energy",
           "x90% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "The Saiyans",
@@ -70150,7 +70150,7 @@
         "x115% research speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -70161,7 +70161,7 @@
           "+100.0 Max KI energy",
           "x115% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "The Saiyans",
@@ -70181,13 +70181,13 @@
         "+$1500 market value"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+$1500 market value"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "The Saiyans",
@@ -70219,7 +70219,7 @@
         "x0% trap spring chance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -70237,7 +70237,7 @@
           "x30% social impact",
           "x0% trap spring chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "The Saiyans",
@@ -70257,13 +70257,13 @@
         "+$1500 market value"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+$1500 market value"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "The Saiyans",
@@ -70290,7 +70290,7 @@
         "x115% research speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -70303,7 +70303,7 @@
           "+100.0 Max KI energy",
           "x115% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "The Saiyans",
@@ -70325,7 +70325,7 @@
       "conflicts": [
         "workaholic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "workaholic"
@@ -70333,7 +70333,7 @@
         "stats": [
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70355,7 +70355,7 @@
       "conflicts": [
         "slowlearner"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "slowlearner"
@@ -70363,7 +70363,7 @@
         "stats": [
           "x115% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70383,13 +70383,13 @@
         "x65% global work speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "x65% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70411,7 +70411,7 @@
         "bloodlust",
         "brawler"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brave",
@@ -70419,7 +70419,7 @@
           "brawler"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70448,7 +70448,7 @@
         "volatile",
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "coward",
@@ -70463,7 +70463,7 @@
           "+20% pain shock threshold",
           "x25% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70483,13 +70483,13 @@
       "conflicts": [
         "nimble"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "nimble"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70509,13 +70509,13 @@
         "+18.0F Maximum comfortable temperature"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+18.0F Maximum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70535,13 +70535,13 @@
         "-18.0F Minimum comfortable temperature"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-18.0F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70559,11 +70559,11 @@
       "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70583,13 +70583,13 @@
       "conflicts": [
         "slob"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "slob"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70609,13 +70609,13 @@
       "conflicts": [
         "neat"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "neat"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70635,13 +70635,13 @@
       "conflicts": [
         "absent-minded"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "absent-minded"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70661,13 +70661,13 @@
       "conflicts": [
         "squeamish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "squeamish"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70687,13 +70687,13 @@
       "conflicts": [
         "animalhater"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "animalhater"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70716,7 +70716,7 @@
         "dogperson",
         "menagerist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "animallover",
@@ -70725,7 +70725,7 @@
           "menagerist"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70743,11 +70743,11 @@
       "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70769,7 +70769,7 @@
       "conflicts": [
         "submissive"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "submissive"
@@ -70777,7 +70777,7 @@
         "stats": [
           "x25% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70799,7 +70799,7 @@
       "conflicts": [
         "rebel"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "rebel"
@@ -70807,7 +70807,7 @@
         "stats": [
           "x200% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70829,7 +70829,7 @@
       "conflicts": [
         "kind"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "kind"
@@ -70837,7 +70837,7 @@
         "stats": [
           "x25% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70859,7 +70859,7 @@
       "conflicts": [
         "bodymodder"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bodymodder"
@@ -70867,7 +70867,7 @@
         "stats": [
           "Only mental break \"VTE_TechnophobeTantrum\" allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70887,13 +70887,13 @@
       "conflicts": [
         "anxious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "anxious"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70922,7 +70922,7 @@
         "fastlearner",
         "toosmart"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "academian",
@@ -70937,7 +70937,7 @@
           "-50.00% social impact",
           "x300% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70955,11 +70955,11 @@
       "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -70979,13 +70979,13 @@
       "conflicts": [
         "ascetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ascetic"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71007,7 +71007,7 @@
         "ironstomach",
         "bloodlust"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "desensitized",
@@ -71015,7 +71015,7 @@
           "bloodlust"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71038,7 +71038,7 @@
       "conflicts": [
         "fun-loving"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "fun-loving"
@@ -71047,7 +71047,7 @@
           "Only mental break \"VTE_PanicFreezing\" allowed.",
           "x200% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71070,7 +71070,7 @@
         "prude",
         "asexual"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "prude",
@@ -71079,7 +71079,7 @@
         "stats": [
           "x200% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71102,7 +71102,7 @@
         "insatiable",
         "nudist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "insatiable",
@@ -71111,7 +71111,7 @@
         "stats": [
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71129,11 +71129,11 @@
       "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71153,13 +71153,13 @@
       "conflicts": [
         "dogperson"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "dogperson"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71179,13 +71179,13 @@
       "conflicts": [
         "catperson"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "catperson"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71208,7 +71208,7 @@
       "conflicts": [
         "slowlearner"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "slowlearner"
@@ -71217,7 +71217,7 @@
           "+20% mental break threshold",
           "x130% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71240,7 +71240,7 @@
       "conflicts": [
         "animalhater"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "animalhater"
@@ -71249,7 +71249,7 @@
           "x120% tame animal chance",
           "x120% train animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71267,11 +71267,11 @@
       "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71289,11 +71289,11 @@
       "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71313,13 +71313,13 @@
         "+20% surgery success chance factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+20% surgery success chance factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71339,13 +71339,13 @@
         "+4 melee"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+4 melee"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71365,13 +71365,13 @@
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Only mental break \"VTE_Kleptomaniac\" allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71393,7 +71393,7 @@
         "chemicalinterest",
         "teetotaler"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "chemicalfascination",
@@ -71401,7 +71401,7 @@
           "teetotaler"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71423,7 +71423,7 @@
       "conflicts": [
         "undergrounder"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "undergrounder"
@@ -71431,7 +71431,7 @@
         "stats": [
           "+0.2 foraged food amount"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71455,7 +71455,7 @@
       "conflicts": [
         "heavysleeper"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "heavysleeper"
@@ -71465,7 +71465,7 @@
           "x70% move speed",
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71483,11 +71483,11 @@
       "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71509,7 +71509,7 @@
       "conflicts": [
         "squeamish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "squeamish"
@@ -71517,7 +71517,7 @@
         "stats": [
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71539,7 +71539,7 @@
       "conflicts": [
         "ascetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ascetic"
@@ -71547,7 +71547,7 @@
         "stats": [
           "x70% eating speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71571,7 +71571,7 @@
       "conflicts": [
         "slowlearner"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "slowlearner"
@@ -71581,7 +71581,7 @@
           "+4 medical",
           "+20% medical tend quality"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71604,7 +71604,7 @@
         "+20% construction speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -71613,7 +71613,7 @@
           "+20% mining yield",
           "+20% construction speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71635,7 +71635,7 @@
         "-25.00% food poison chance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -71643,7 +71643,7 @@
           "+4 artistic",
           "-25.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71666,7 +71666,7 @@
         "+20% butchery efficiency"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -71675,7 +71675,7 @@
           "+20% plant harvest yield",
           "+20% butchery efficiency"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71697,7 +71697,7 @@
         "+25.00% trade price improvement"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -71705,7 +71705,7 @@
           "+4 crafting",
           "+25.00% trade price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71725,13 +71725,13 @@
       "conflicts": [
         "thinskinned"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "thinskinned"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71751,13 +71751,13 @@
       "conflicts": [
         "thickskinned"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "thickskinned"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71775,11 +71775,11 @@
       "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -71803,7 +71803,7 @@
         "+50.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -71813,7 +71813,7 @@
           "+50.00% trade price improvement",
           "+50.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -72255,7 +72255,7 @@
         "felinefighter",
         "god"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "firemage",
@@ -72683,7 +72683,7 @@
           "x0% foraged food amount",
           "x66% mass"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -72703,13 +72703,13 @@
         "x115% incoming damage multiplier"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "x115% incoming damage multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Biotech",
@@ -72727,11 +72727,11 @@
       "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Biotech",
@@ -72749,11 +72749,11 @@
       "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Psycasts Expanded",
@@ -72771,11 +72771,11 @@
       "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Factions Expanded - Pirates",
@@ -72793,11 +72793,11 @@
       "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Factions Expanded - Pirates",
@@ -72818,14 +72818,14 @@
         "+3 mech bandwidth"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+1 mech control groups",
           "+3 mech bandwidth"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Obsidia Expansion",
@@ -72846,14 +72846,14 @@
         "abrasive",
         "psychopath"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
           "psychopath"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Races Expanded - Highmate",
@@ -72874,14 +72874,14 @@
         "bloodlust",
         "psychopath"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bloodlust",
           "psychopath"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Races Expanded - Highmate",
@@ -72901,13 +72901,13 @@
         "+20.0 melee dodge chance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+20.0 melee dodge chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -72927,13 +72927,13 @@
         "-10.0 melee dodge chance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-10.0 melee dodge chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -72957,7 +72957,7 @@
         "+50.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -72967,7 +72967,7 @@
           "+50.00% trade price improvement",
           "+50.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -72989,7 +72989,7 @@
         "+10.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -72997,7 +72997,7 @@
           "+10.00% trade price improvement",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73019,7 +73019,7 @@
         "+10.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73027,7 +73027,7 @@
           "+10.00% trade price improvement",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73049,7 +73049,7 @@
         "+10.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73057,7 +73057,7 @@
           "+10.00% trade price improvement",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73079,7 +73079,7 @@
         "+10.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73087,7 +73087,7 @@
           "+10.00% trade price improvement",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73109,7 +73109,7 @@
         "+10.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73117,7 +73117,7 @@
           "+10.00% trade price improvement",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73139,7 +73139,7 @@
         "+10.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73147,7 +73147,7 @@
           "+10.00% trade price improvement",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73167,13 +73167,13 @@
         "+20% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+20% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73193,13 +73193,13 @@
         "-20% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-20% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73226,7 +73226,7 @@
         "+50.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73239,7 +73239,7 @@
           "+50.00% trade price improvement",
           "+50.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73261,7 +73261,7 @@
         "+5 crafting"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73269,7 +73269,7 @@
           "+5 melee",
           "+5 crafting"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73293,7 +73293,7 @@
         "+50.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73303,7 +73303,7 @@
           "+50.00% trade price improvement",
           "+50.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73327,7 +73327,7 @@
         "-25.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73337,7 +73337,7 @@
           "-25.00% trade price improvement",
           "-25.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73363,7 +73363,7 @@
         "+50.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73375,7 +73375,7 @@
           "+50.00% trade price improvement",
           "+50.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73401,7 +73401,7 @@
         "+50.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73413,7 +73413,7 @@
           "+50.00% trade price improvement",
           "+50.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73439,7 +73439,7 @@
         "+50.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73451,7 +73451,7 @@
           "+50.00% trade price improvement",
           "+50.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73474,7 +73474,7 @@
         "+10.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73483,7 +73483,7 @@
           "+10.00% trade price improvement",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73506,7 +73506,7 @@
         "+10.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73515,7 +73515,7 @@
           "+10.00% trade price improvement",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73538,7 +73538,7 @@
         "+10% global work speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73547,7 +73547,7 @@
           "+10 carrying capacity",
           "+10% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73570,7 +73570,7 @@
         "+10.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -73579,7 +73579,7 @@
           "+10.00% trade price improvement",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
@@ -73599,13 +73599,13 @@
       "conflicts": [
         "ascetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ascetic"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -73634,7 +73634,7 @@
         "animalhater",
         "butcher"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "animalhater",
@@ -73649,7 +73649,7 @@
           "+40.00% train animal chance",
           "-40.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -73675,7 +73675,7 @@
       "conflicts": [
         "animallover"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "animallover"
@@ -73687,7 +73687,7 @@
           "-40.00% tame animal chance",
           "-40.00% train animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -73714,7 +73714,7 @@
         "inept",
         "coordinated"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inept",
@@ -73727,7 +73727,7 @@
           "+20% construct success chance",
           "-40.00% tame animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -73755,7 +73755,7 @@
         "inept",
         "coordinated"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "animallover",
@@ -73769,7 +73769,7 @@
           "-20% mechanoid shredding efficiency",
           "-40% mechanoid shredding speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -73795,7 +73795,7 @@
         "coordinated",
         "rockhound"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inept",
@@ -73807,7 +73807,7 @@
           "-20% mining speed",
           "-20% mining yield"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -73830,7 +73830,7 @@
       "conflicts": [
         "heatlover"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "heatlover"
@@ -73839,7 +73839,7 @@
           "-5.4F Maximum comfortable temperature",
           "-9.0F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -73857,11 +73857,11 @@
       "description": "Timmy can sleep through anything.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -73888,7 +73888,7 @@
         "inventor",
         "savant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "toosmart",
@@ -73901,7 +73901,7 @@
           "-25% global learning factor",
           "-20% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -73926,7 +73926,7 @@
         "inept",
         "coordinated"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inept",
@@ -73937,7 +73937,7 @@
           "-0.2 cooking speed",
           "-40.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -73960,7 +73960,7 @@
       "conflicts": [
         "coldlover"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "coldlover"
@@ -73969,7 +73969,7 @@
           "+9.0F Maximum comfortable temperature",
           "+5.4F Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74023,7 +74023,7 @@
         "rockhound",
         "savant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "industrious",
@@ -74063,7 +74063,7 @@
           "-20% plant work speed",
           "-20% general labor speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74117,7 +74117,7 @@
         "rockhound",
         "savant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "industrious",
@@ -74157,7 +74157,7 @@
           "+10% plant work speed",
           "+10% general labor speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74181,7 +74181,7 @@
         "tough",
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "tough",
@@ -74191,7 +74191,7 @@
           "+25% pain shock threshold",
           "-25% incoming damage multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74215,7 +74215,7 @@
         "tough",
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "tough",
@@ -74225,7 +74225,7 @@
           "+15% pain shock threshold",
           "-15% incoming damage multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74249,7 +74249,7 @@
         "tough",
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "tough",
@@ -74259,7 +74259,7 @@
           "-15% pain shock threshold",
           "+15% incoming damage multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74288,7 +74288,7 @@
         "coordinated",
         "dunce"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inept",
@@ -74303,7 +74303,7 @@
           "+10% psychic sensitivity",
           "+10% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74329,7 +74329,7 @@
         "trigger-happy",
         "deadshot"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "carefulshooter",
@@ -74341,7 +74341,7 @@
           "-4.0 melee hit chance",
           "-20% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74367,7 +74367,7 @@
         "trigger-happy",
         "deadshot"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "carefulshooter",
@@ -74379,7 +74379,7 @@
           "+1.0 melee hit chance",
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74406,7 +74406,7 @@
         "-10% medical tend speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -74419,7 +74419,7 @@
           "-10% medical operation speed",
           "-10% medical tend speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74439,13 +74439,13 @@
         "-25% eating speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-25% eating speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74465,13 +74465,13 @@
         "+25% eating speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+25% eating speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74489,11 +74489,11 @@
       "description": "Timmy is really afraid of the dark.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74511,11 +74511,11 @@
       "description": "Timmy doesn't fear the dark at all.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74563,7 +74563,7 @@
         "inept",
         "coordinated"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "industrious",
@@ -74597,7 +74597,7 @@
           "-10% research speed",
           "-10% general labor speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74619,7 +74619,7 @@
         "-20% medical tend quality"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -74627,7 +74627,7 @@
           "-20% medical surgery success chance",
           "-20% medical tend quality"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74649,7 +74649,7 @@
         "+20% medical tend quality"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -74657,7 +74657,7 @@
           "+20% medical surgery success chance",
           "+20% medical tend quality"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74681,7 +74681,7 @@
         "+40% medical tend quality"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -74691,7 +74691,7 @@
           "+20% medical tend speed",
           "+40% medical tend quality"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74722,7 +74722,7 @@
         "coordinated",
         "claustrophobic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inept",
@@ -74739,7 +74739,7 @@
           "-40% plant work speed",
           "+40% smoothing speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74769,7 +74769,7 @@
         "coordinated",
         "dunce"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "toosmart",
@@ -74785,7 +74785,7 @@
           "+80% global learning factor",
           "-60% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74807,7 +74807,7 @@
       "conflicts": [
         "toosmart"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "toosmart"
@@ -74815,7 +74815,7 @@
         "stats": [
           "+25% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74840,7 +74840,7 @@
         "annoyingvoice",
         "creepybreathing"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -74851,7 +74851,7 @@
           "-2 social",
           "-20.00% trade price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74876,7 +74876,7 @@
         "annoyingvoice",
         "creepybreathing"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -74887,7 +74887,7 @@
           "+2 social",
           "+20.00% trade price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74912,7 +74912,7 @@
         "annoyingvoice",
         "creepybreathing"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -74923,7 +74923,7 @@
           "+4 social",
           "+40.00% trade price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74949,7 +74949,7 @@
         "cranialnervepalsy",
         "eagle-eyed"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler",
@@ -74961,7 +74961,7 @@
           "-50% aiming time",
           "+4.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -74987,7 +74987,7 @@
         "annoyingvoice",
         "creepybreathing"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -74999,7 +74999,7 @@
           "-15.00% negotiation ability",
           "-20.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -75025,7 +75025,7 @@
         "annoyingvoice",
         "creepybreathing"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -75037,7 +75037,7 @@
           "+15.00% negotiation ability",
           "+20.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -75063,7 +75063,7 @@
         "annoyingvoice",
         "creepybreathing"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -75075,7 +75075,7 @@
           "+30.00% negotiation ability",
           "+40.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -75096,14 +75096,14 @@
         "-50% toxic resistance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-25% immunity gain speed",
           "-50% toxic resistance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -75124,14 +75124,14 @@
         "+50% toxic resistance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+25% immunity gain speed",
           "+50% toxic resistance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -75157,7 +75157,7 @@
         "inept",
         "coordinated"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "greenthumb",
@@ -75169,7 +75169,7 @@
           "-15% plant harvest yield",
           "-15% plant work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -75196,7 +75196,7 @@
         "brownthumb",
         "rockhound"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "inept",
@@ -75209,7 +75209,7 @@
           "+15% plant harvest yield",
           "+15% plant work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[LC] Consolidated Traits",
@@ -75227,11 +75227,11 @@
       "description": "does not age.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Eternal Youth Traits",
@@ -75249,11 +75249,11 @@
       "description": "was never living.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Eternal Youth Traits",
@@ -75271,11 +75271,11 @@
       "description": "cannot die or age.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Eternal Youth Traits",
@@ -75301,7 +75301,7 @@
         "-25.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -75313,7 +75313,7 @@
           "-25.00% trade price improvement",
           "-25.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Feles - Felines of the Rim [1.4]",
@@ -75337,7 +75337,7 @@
         "+0.3 shooting accuracy"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -75347,7 +75347,7 @@
           "+2 social",
           "+0.3 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Feles - Felines of the Rim [1.4]",
@@ -75373,7 +75373,7 @@
         "-25.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -75385,7 +75385,7 @@
           "-25.00% trade price improvement",
           "-25.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Feles - Felines of the Rim [1.4]",
@@ -75411,7 +75411,7 @@
         "-25.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -75423,7 +75423,7 @@
           "-25.00% trade price improvement",
           "-25.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Feles - Felines of the Rim [1.4]",
@@ -75449,7 +75449,7 @@
         "-25.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -75461,7 +75461,7 @@
           "-25.00% trade price improvement",
           "-25.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Feles - Felines of the Rim [1.4]",

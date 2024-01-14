@@ -33446,7 +33446,7 @@
 	},
 	{
 		"abr": "braixen",
-		"price": 4333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Braixen"
 	},
@@ -33458,7 +33458,7 @@
 	},
 	{
 		"abr": "cheetah",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "YanzihkoCheetah"
 	},
@@ -33476,7 +33476,7 @@
 	},
 	{
 		"abr": "delphox",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Delphox"
 	},
@@ -33488,7 +33488,7 @@
 	},
 	{
 		"abr": "eevee",
-		"price": 3083,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Yanz_Eevee"
 	},
@@ -33500,7 +33500,7 @@
 	},
 	{
 		"abr": "espeon",
-		"price": 8333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Yanz_Espeon"
 	},
@@ -33512,7 +33512,7 @@
 	},
 	{
 		"abr": "flareon",
-		"price": 8333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Yanz_Flareon"
 	},
@@ -33524,13 +33524,13 @@
 	},
 	{
 		"abr": "fressalfar",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Fressalfar"
 	},
 	{
 		"abr": "gardevoir",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Yanz_Gardevoir"
 	},
@@ -33542,7 +33542,7 @@
 	},
 	{
 		"abr": "glaceon",
-		"price": 8333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Yanz_Glaceon"
 	},
@@ -33554,7 +33554,7 @@
 	},
 	{
 		"abr": "icephox",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Icephox"
 	},
@@ -33566,7 +33566,7 @@
 	},
 	{
 		"abr": "jaguar",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "YanzihkoJaguar"
 	},
@@ -33578,7 +33578,7 @@
 	},
 	{
 		"abr": "jolteon",
-		"price": 8333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Yanz_Jolteon"
 	},
@@ -33590,13 +33590,13 @@
 	},
 	{
 		"abr": "kisalfar",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kisalfar"
 	},
 	{
 		"abr": "leafeon",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Yanz_Leafeon"
 	},
@@ -33608,7 +33608,7 @@
 	},
 	{
 		"abr": "leo",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "YanzihkoLeo"
 	},
@@ -33620,7 +33620,7 @@
 	},
 	{
 		"abr": "lombax",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Lombax"
 	},
@@ -33632,7 +33632,7 @@
 	},
 	{
 		"abr": "meowstic",
-		"price": 3083,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Yanz_Meowstic"
 	},
@@ -33644,7 +33644,7 @@
 	},
 	{
 		"abr": "panther",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "YanzihkoPanther"
 	},
@@ -33666,6 +33666,774 @@
 		"category": "Bionic",
 		"defname": "SynthLeaftail"
 	},
+	{
+		"abr": "tigris",
+		"price": -10,
+		"category": "Animal",
+		"defname": "YanzihkoTigris"
+	},
+	{
+		"abr": "tigrisleather",
+		"price": 20,
+		"category": "Bad leather",
+		"defname": "Tigris_leather"
+	},
+	{
+		"abr": "vaporeon",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Yanz_Vaporeon"
+	},
+	{
+		"abr": "vaporeonleather",
+		"price": 83,
+		"category": "Bad leather",
+		"defname": "Vaporeon_leather"
+	},
+	{
+		"abr": "vulpes",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Vulpes"
+	},
+	{
+		"abr": "vulpianleather",
+		"price": 83,
+		"category": "Bad leather",
+		"defname": "Vulpian_leather"
+	},
+	{
+		"abr": "zoroark",
+		"price": -10,
+		"category": "Animal",
+		"defname": "BZoroark"
+	},
+	{
+		"abr": "zoroark",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WZoroark"
+	},
+	{
+		"abr": "zoroarkleather",
+		"price": 83,
+		"category": "Bad leather",
+		"defname": "Zoroark_leather"
+	},
+	{
+		"abr": "anti-materialrifle",
+		"price": 1717,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_AntiMaterialRifle"
+	},
+	{
+		"abr": "archo-analyzer",
+		"price": 24642,
+		"category": "Misc",
+		"defname": "ArchoAnalyzer"
+	},
+	{
+		"abr": "archoblade",
+		"price": 16667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_YanzArchotechBlade"
+	},
+	{
+		"abr": "archolibrary",
+		"price": 16667,
+		"category": "Archotech Re-Expanded",
+		"defname": "Archolibrary"
+	},
+	{
+		"abr": "archostrand",
+		"price": 167,
+		"category": "Archotech Re-Expanded",
+		"defname": "Archostrand"
+	},
+	{
+		"abr": "archotecharchostrandreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteArchostrandreactor"
+	},
+	{
+		"abr": "archotecharchotechblockreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteArchoblockreactor"
+	},
+	{
+		"abr": "archotecharchotechcomponentreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteArchocomponentreactor"
+	},
+	{
+		"abr": "archotecharm",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechArm"
+	},
+	{
+		"abr": "archotechattofomax",
+		"price": 833333,
+		"category": "Special",
+		"defname": "ArchotechAttoFomax"
+	},
+	{
+		"abr": "archotechbattery",
+		"price": 17558,
+		"category": "Power",
+		"defname": "ArchotechBattery"
+	},
+	{
+		"abr": "archotechblock",
+		"price": 167,
+		"category": "Archotech Re-Expanded",
+		"defname": "BlockArchotech"
+	},
+	{
+		"abr": "archotechchemfuelreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteChemreactor"
+	},
+	{
+		"abr": "archotechcomponent",
+		"price": 833,
+		"category": "Archotech Re-Expanded",
+		"defname": "ComponentArchotech"
+	},
+	{
+		"abr": "archotechear",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechEar"
+	},
+	{
+		"abr": "archotecheye",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechEye"
+	},
+	{
+		"abr": "archotechfemtofomax",
+		"price": 833333,
+		"category": "Special",
+		"defname": "ArchotechFemtoFomax"
+	},
+	{
+		"abr": "archotechgoldreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteGoldreactor"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechHeart"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechKidney"
+	},
+	{
+		"abr": "archotechleg",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLeg"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLung"
+	},
+	{
+		"abr": "archotechmedicine",
+		"price": 167,
+		"category": "Medicine",
+		"defname": "MedicineArchotech"
+	},
+	{
+		"abr": "archotechnexus",
+		"price": 91725,
+		"category": "Archotech",
+		"defname": "YanzArchotechNexus"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechNose"
+	},
+	{
+		"abr": "archotechpelvis",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechPelvis"
+	},
+	{
+		"abr": "archotechpicofomax",
+		"price": 833333,
+		"category": "Special",
+		"defname": "ArchotechPicoFomax"
+	},
+	{
+		"abr": "archotechplasteelreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfinitePlasteelreactor"
+	},
+	{
+		"abr": "archotechpsychicemanator",
+		"price": 2167,
+		"category": "Special",
+		"defname": "ArchotechPsychicEmanator"
+	},
+	{
+		"abr": "archotechrifle",
+		"price": 33333,
+		"category": "Ranged weapons",
+		"defname": "Gun_YanzArchotechRifle"
+	},
+	{
+		"abr": "archotechsilverreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteSilverreactor"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechSpine"
+	},
+	{
+		"abr": "archotechstation",
+		"price": 24642,
+		"category": "Production",
+		"defname": "ArchotechStation"
+	},
+	{
+		"abr": "archotechsteelreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteSteelreactor"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechStomach"
+	},
+	{
+		"abr": "archotechsupressionrifle",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "Gun_YanzArchotechRifleBlunt"
+	},
+	{
+		"abr": "archotechuraniumreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteUraniumreactor"
+	},
+	{
+		"abr": "archotechvanometricpowercell",
+		"price": 2000,
+		"category": "Special",
+		"defname": "ArchotechVanometricPowerCell"
+	},
+	{
+		"abr": "attomachinery",
+		"price": 500,
+		"category": "Archotech Re-Expanded",
+		"defname": "Attomachinery"
+	},
+	{
+		"abr": "automaticpistol",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_AutomaticPistol"
+	},
+	{
+		"abr": "baton",
+		"price": 206,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Baton"
+	},
+	{
+		"abr": "battleaxe",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_BattleAxe"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_BattleRifle"
+	},
+	{
+		"abr": "bullpupdmr",
+		"price": 1692,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_BullpupDMR"
+	},
+	{
+		"abr": "bullpuprifle",
+		"price": 1158,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_BullpupRifle"
+	},
+	{
+		"abr": "caralternator",
+		"price": 158,
+		"category": "Car parts",
+		"defname": "VVE_CarAlternator"
+	},
+	{
+		"abr": "carbattery",
+		"price": 200,
+		"category": "Car parts",
+		"defname": "VVE_CarBattery"
+	},
+	{
+		"abr": "carexhaust",
+		"price": 133,
+		"category": "Car parts",
+		"defname": "VVE_CarExhaust"
+	},
+	{
+		"abr": "carfueltank",
+		"price": 158,
+		"category": "Car parts",
+		"defname": "VVE_CarFuelTank"
+	},
+	{
+		"abr": "carradiator",
+		"price": 150,
+		"category": "Car parts",
+		"defname": "VVE_CarRadiator"
+	},
+	{
+		"abr": "carsuspension",
+		"price": 150,
+		"category": "Car parts",
+		"defname": "VVE_CarSuspension"
+	},
+	{
+		"abr": "cartransmission",
+		"price": 283,
+		"category": "Car parts",
+		"defname": "VVE_CarTransmission"
+	},
+	{
+		"abr": "carwheel",
+		"price": 117,
+		"category": "Car parts",
+		"defname": "VVE_CarWheel"
+	},
+	{
+		"abr": "carwiring",
+		"price": 208,
+		"category": "Car parts",
+		"defname": "VVE_CarWiring"
+	},
+	{
+		"abr": "carbine",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Carbine"
+	},
+	{
+		"abr": "chargelmg",
+		"price": 2833,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeLMG"
+	},
+	{
+		"abr": "chargeminigun",
+		"price": 5458,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeMinigun"
+	},
+	{
+		"abr": "chargepistol",
+		"price": 1008,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargePistol"
+	},
+	{
+		"abr": "chargerocketlauncher",
+		"price": 11667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeRocketLauncher"
+	},
+	{
+		"abr": "chargeshotgun",
+		"price": 1683,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeShotgun"
+	},
+	{
+		"abr": "chargesmg",
+		"price": 1508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeSMG"
+	},
+	{
+		"abr": "chargesniperrifle",
+		"price": 2050,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeSniperRifle"
+	},
+	{
+		"abr": "combathandgun",
+		"price": 291,
+		"category": "Ranged weapons",
+		"defname": "VWE_CombatHandgun"
+	},
+	{
+		"abr": "combatknife",
+		"price": 205,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_CombatKnife"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 240,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Compound"
+	},
+	{
+		"abr": "concussiveturret",
+		"price": 3100,
+		"category": "Security",
+		"defname": "Turret_ConcussiveTurret"
+	},
+	{
+		"abr": "crossbow",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Crossbow"
+	},
+	{
+		"abr": "derringer",
+		"price": 392,
+		"category": "Ranged weapons",
+		"defname": "VWEFT_Gun_Derringer"
+	},
+	{
+		"abr": "empturret",
+		"price": 3433,
+		"category": "Security",
+		"defname": "Turret_STEMPTurret"
+	},
+	{
+		"abr": "energyturret",
+		"price": 2675,
+		"category": "Security",
+		"defname": "Turret_EnergyTurret"
+	},
+	{
+		"abr": "engineblock",
+		"price": 542,
+		"category": "Car parts",
+		"defname": "VVE_EngineBlock"
+	},
+	{
+		"abr": "femtomachinery",
+		"price": 333,
+		"category": "Archotech Re-Expanded",
+		"defname": "Femtomachinery"
+	},
+	{
+		"abr": "fireextinguisher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_FireExtinguisher"
+	},
+	{
+		"abr": "flamethrower",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Flamethrower"
+	},
+	{
+		"abr": "flashgrenadebelt",
+		"price": 525,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeFlashBelt"
+	},
+	{
+		"abr": "flashgrenades",
+		"price": 525,
+		"category": "Grenades",
+		"defname": "VWE_FlashGrenade"
+	},
+	{
+		"abr": "flintlock",
+		"price": 275,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Flintlock"
+	},
+	{
+		"abr": "garagecabinet",
+		"price": 667,
+		"category": "Misc",
+		"defname": "VVE_GarageCabinet"
+	},
+	{
+		"abr": "grenadelauncher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_GrenadeLauncher"
+	},
+	{
+		"abr": "halberd",
+		"price": 483,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Halberd"
+	},
+	{
+		"abr": "hammer",
+		"price": 281,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Hammer"
+	},
+	{
+		"abr": "handcannon",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_HandCannon"
+	},
+	{
+		"abr": "hatchet",
+		"price": 147,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Axe"
+	},
+	{
+		"abr": "heavyturret",
+		"price": 2075,
+		"category": "Security",
+		"defname": "Turret_HeavyTurret"
+	},
+	{
+		"abr": "hmg",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_HMG"
+	},
+	{
+		"abr": "lever-actionrifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_LeverActionRifle"
+	},
+	{
+		"abr": "lever-actionshotgun",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "VWEFT_Gun_LeverActionShotgun"
+	},
+	{
+		"abr": "lightsmg",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_LightSMG"
+	},
+	{
+		"abr": "longbow",
+		"price": 197,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Long"
+	},
+	{
+		"abr": "makeshiftlmg",
+		"price": 297,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_MakeshiftLMG"
+	},
+	{
+		"abr": "makeshiftpistol",
+		"price": 113,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_MakeshiftPistol"
+	},
+	{
+		"abr": "makeshiftrifle",
+		"price": 243,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_MakeshiftRifle"
+	},
+	{
+		"abr": "makeshiftshotgun",
+		"price": 178,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_MakeshiftShotgun"
+	},
+	{
+		"abr": "makeshiftsmg",
+		"price": 172,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_MakeshiftSMG"
+	},
+	{
+		"abr": "marksmanrifle",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_MarksmanRifle"
+	},
+	{
+		"abr": "musket",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Musket"
+	},
+	{
+		"abr": "pdw",
+		"price": 892,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_PDW"
+	},
+	{
+		"abr": "picomachinery",
+		"price": 167,
+		"category": "Archotech Re-Expanded",
+		"defname": "Picomachinery"
+	},
+	{
+		"abr": "refuelingpump",
+		"price": 375,
+		"category": "Misc",
+		"defname": "VVE_RefuelingPump"
+	},
+	{
+		"abr": "rocketlauncher",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_RocketLauncher"
+	},
+	{
+		"abr": "sawed-offshotgun",
+		"price": 297,
+		"category": "Ranged weapons",
+		"defname": "VWE_SawedOffShotgun"
+	},
+	{
+		"abr": "semi-automaticrifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_SemiAutomaticRifle"
+	},
+	{
+		"abr": "servicerifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ServiceRifle"
+	},
+	{
+		"abr": "shovel",
+		"price": 327,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Shovel"
+	},
+	{
+		"abr": "shredderturret",
+		"price": 725,
+		"category": "Security",
+		"defname": "Turret_ShredderTurret"
+	},
+	{
+		"abr": "smg",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_SMG"
+	},
+	{
+		"abr": "smokegrenadebelt",
+		"price": 218,
+		"category": "Utility",
+		"defname": "VWE_Apparel_GrenadeSmokeBelt"
+	},
+	{
+		"abr": "smokegrenades",
+		"price": 215,
+		"category": "Grenades",
+		"defname": "VWE_SmokeGrenade"
+	},
+	{
+		"abr": "sniperturret",
+		"price": 1075,
+		"category": "Security",
+		"defname": "Turret_SniperTurret"
+	},
+	{
+		"abr": "standardturret",
+		"price": 900,
+		"category": "Security",
+		"defname": "Turret_StandardTurret"
+	},
+	{
+		"abr": "stunningturret",
+		"price": 450,
+		"category": "Security",
+		"defname": "Turret_StunningTurret"
+	},
+	{
+		"abr": "syntheriusdrive",
+		"price": 592,
+		"category": "Car parts",
+		"defname": "OE_SyntheriusVehicleCore"
+	},
+	{
+		"abr": "tazingturret",
+		"price": 633,
+		"category": "Security",
+		"defname": "Turret_TazingTurret"
+	},
+	{
+		"abr": "throwingknives",
+		"price": 161,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Knives"
+	},
+	{
+		"abr": "throwingrocks",
+		"price": 11,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Rocks"
+	},
+	{
+		"abr": "warcasketfoldinggun",
+		"price": 2750,
+		"category": "Ranged weapons",
+		"defname": "VFEP_WarcasketGun_FoldingGun"
+	},
+	{
+		"abr": "warcasketfoldinggun",
+		"price": 2750,
+		"category": "Misc",
+		"defname": "VFEP_Box_FoldingGun"
+	},
+	{
+		"abr": "whip",
+		"price": 203,
+		"category": "Ranged weapons",
+		"defname": "VWE_Tool_Whip"
+	}
 	],
-	"total": 5621
+	"total": 5739
 }
